@@ -1,4 +1,4 @@
-# Namorar Skill for Claude
+# Dating Skill for Claude
 
 A custom Claude Skill that analyzes **descriptions of photos, screenshots, posts, reels, stories, or conversations** and generates strategic conversation starters based on behavioral psychology and conversational techniques.
 
