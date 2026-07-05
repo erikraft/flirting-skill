@@ -13,7 +13,7 @@ A custom Claude Skill that analyzes **descriptions of photos, screenshots, posts
 |--------|---------|
 | **Languages** | Any language supported by Claude (English, Spanish, Portuguese, French, German, Italian, etc.) |
 | **Claude Models** | Haiku 4.5, Haiku 4.5 Extended, Sonnet 3.5, Opus 3.5 (all work) |
-| **Platform** | Claude Web, Claude API, Claude Desktop |
+| **Platform** | Claude Web, Claude API, Claude Desktop, Claude Mobile |
 | **Attachments** | Images, screenshots, PDFs (text extraction) |
 
 ---
