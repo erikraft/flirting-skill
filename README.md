@@ -54,6 +54,21 @@ Claude is multilingual and has no problem interpreting Portuguese instructions w
 * `namorar.skill` — Recommended format.
 * `namorar.md` — Alternative Markdown version containing the same instructions.
 
+## Example
+
+| Image | Example Prompt |
+|------|----------------|
+| <img src="example1.jpg" alt="Example" width="320"> | `/namorar quero Falar com a Mulher do Post, fala que eu achei ela no Threads e convence ela a me chamar na DM` |
+
+**Result:** The Skill analyzes the attached image together with the prompt and generates conversation suggestions based on its instructions.
+
+> **Note**
+>
+> - If you attach a **conversation screenshot**, the Skill can analyze the messages and suggest possible replies.
+> - If the attached image contains a **person's face**, Claude may refuse or limit the analysis because it cannot reliably determine the person's age from the image. This is expected behavior and depends on Claude's safety policies, not on the Skill itself.
+> - The Skill was developed and tested primarily with **Haiku 4.5** and **Haiku 4.5 Extended**.
+> - For the best results, enable **Extended Thinking (Deep Reasoning)** whenever available.
+
 ## License
 
 Use and modify freely according to the license provided with this repository.
