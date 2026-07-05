@@ -104,4 +104,8 @@ This demonstrates that the Skill is **not limited to creating the first message*
 
 ## 📜 License
 
-Use and modify freely according to the license provided with this repository.
+This project is licensed under the **MIT License**.
+
+You are free to use, modify, distribute, and include this Skill in your own projects, provided that the original copyright notice and license are preserved.
+
+See the [LICENSE](LICENSE) file for the full license text.
