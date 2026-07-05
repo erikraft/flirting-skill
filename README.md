@@ -54,7 +54,7 @@ Claude is multilingual and has no problem interpreting Portuguese instructions w
 * `namorar.skill` — Recommended format.
 * `namorar.md` — Alternative Markdown version containing the same instructions.
 
-## Example
+## Example 1
 
 | Image | Example Prompt |
 |------|----------------|
@@ -68,6 +68,35 @@ Claude is multilingual and has no problem interpreting Portuguese instructions w
 > - If the attached image contains a **person's face**, Claude may refuse or limit the analysis because it cannot reliably determine the person's age from the image. This is expected behavior and depends on Claude's safety policies, not on the Skill itself.
 > - The Skill was developed and tested primarily with **Haiku 4.5** and **Haiku 4.5 Extended**.
 > - For the best results, enable **Extended Thinking (Deep Reasoning)** whenever available.
+
+---
+
+## Example 2 — Continuing the Conversation
+
+The Skill is also useful **after** the first interaction.
+
+In this example, there were previous prompts before this one. The image (`example2.jpg`) represents the next step of whereonversation, where the interaction has already moved beyond public comments.
+
+| Image | Example Prompt |
+|------|----------------|
+| <img src="example2.jpg" alt="Example 2" width="320"> | `/namorar E agora???` |
+
+**Result:** Claude analyzes the current state of the conversation and generates the next strategic reply based on everything visible in the screenshot.
+
+This demonstrates that the Skill is **not limited to creating the first message**. It can continue assisting throughout the conversation.
+
+Typical workflow:
+
+1. Find a post, Reel, Story, or profile.
+2. Use `/namorar` to generate an initial comment or first message.
+3. Receive a reply.
+4. Continue using `/namorar` with updated screenshots.
+5. When the conversation moves from public comments to **DMs (Direct Messages)**, simply keep attaching the latest screenshot and continue using `/namorar`.
+6. The Skill will keep generating natural follow-up responses throughout the private conversation.
+
+> **Tip**
+>
+> You can keep providing new screenshots as the conversation progresses. The Skill analyzes the latest context and suggests replies that maintain continuity instead of restarting the conversation from scratch.
 
 ## License
 
