@@ -1,4 +1,4 @@
-# 💋 `/namorar` — The Ultimate Dating & Seduction Skill for Claude
+# 💋 `/namorar` — The Ultimate Dating & Seduction Skill for AI
 
 A custom AI Skill that analyzes **photos, screenshots, posts, reels, stories, or conversations** and generates strategic, psychology‑based conversation starters, follow‑ups, and relationship advice.
 
@@ -36,18 +36,18 @@ A custom AI Skill that analyzes **photos, screenshots, posts, reels, stories, or
 
 | Platform | Type | Image Analysis | Skill Support | Tutorial |
 |----------|------|----------------|---------------|----------|
-| **Claude Web** | Cloud | ✅ Yes (via UI) | ✅ Native | [Tutorial](#installation-claude-web) |
-| **Claude Desktop** | Desktop App | ✅ Yes | ✅ Native | [Tutorial](#installation-claude-desktop) |
-| **Claude API** | API | ✅ Yes | ✅ Via prompt | [Tutorial](#installation-claude-api) |
-| **Claude Code** | CLI | ✅ Yes | ✅ Native | [Tutorial](#installation-claude-code) |
-| **LibreChat** | Self‑Hosted | ✅ Yes | ✅ Via prompt | [Tutorial](#installation-librechat) |
-| **Open WebUI** | Self‑Hosted | ✅ Yes | ✅ Via prompt | [Tutorial](#installation-open-webui) |
-| **Ollama + Open WebUI** | Local | ✅ Yes (LLaVA, Moondream) | ✅ Via prompt | [Tutorial](#installation-ollama) |
-| **LM Studio** | Local | ✅ Yes | ✅ Via prompt | [Tutorial](#installation-lm-studio) |
-| **GPT4All** | Local | ✅ Yes | ✅ Via prompt | [Tutorial](#installation-gpt4all) |
-| **Jan.ai** | Local | ✅ Yes | ✅ Via prompt | [Tutorial](#installation-jan) |
-| **KoboldCPP** | Local | ⚠️ Limited | ✅ Via prompt | [Tutorial](#installation-koboldcpp) |
-| **Agentic Browsers** | Browser | ✅ Yes | ✅ Custom | [Tutorial](#installation-agentic) |
+| **Claude Web** | Cloud | ✅ Yes (via UI) | ✅ Native | [Tutorial](#-installation-claude-web) |
+| **Claude Desktop** | Desktop App | ✅ Yes | ✅ Native | [Tutorial](#-installation-claude-desktop) |
+| **Claude API** | API | ✅ Yes | ✅ Via prompt | [Tutorial](#-installation-claude-api) |
+| **Claude Code** | CLI | ✅ Yes | ✅ Native | [Tutorial](#-installation-claude-code) |
+| **LibreChat** | Self‑Hosted | ✅ Yes | ✅ Via prompt | [Tutorial](#-installation-librechat) |
+| **Open WebUI** | Self‑Hosted | ✅ Yes | ✅ Via prompt | [Tutorial](#-installation-open-webui) |
+| **Ollama + Open WebUI** | Local | ✅ Yes (LLaVA, Moondream) | ✅ Via prompt | [Tutorial](#-installation-ollama--open-webui-local-with-vision) |
+| **LM Studio** | Local | ✅ Yes | ✅ Via prompt | [Tutorial](#-installation-lm-studio-local) |
+| **GPT4All** | Local | ✅ Yes | ✅ Via prompt | [Tutorial](#-installation-gpt4all-local) |
+| **Jan.ai** | Local | ✅ Yes | ✅ Via prompt | [Tutorial](#-installation-janai-local) |
+| **KoboldCPP** | Local | ⚠️ Limited | ✅ Via prompt | [Tutorial](#-installation-koboldcpp-local) |
+| **Agentic Browsers** | Browser | ✅ Yes | ✅ Custom | [Tutorial](#-installation-agentic-browsers) |
 
 ---
 
@@ -203,7 +203,7 @@ A custom AI Skill that analyzes **photos, screenshots, posts, reels, stories, or
 
 ---
 
-### 🔷 Installation — GPT4All
+### 🔷 Installation — GPT4All (Local)
 
 1. Download GPT4All from [gpt4all.io](https://gpt4all.io).
 
@@ -217,7 +217,7 @@ A custom AI Skill that analyzes **photos, screenshots, posts, reels, stories, or
 
 ---
 
-### 🔷 Installation — Jan.ai
+### 🔷 Installation — Jan.ai (Local)
 
 1. Download Jan from [jan.ai](https://jan.ai).
 
@@ -228,6 +228,22 @@ A custom AI Skill that analyzes **photos, screenshots, posts, reels, stories, or
 4. **Save** and enable.
 
 5. Use with **Jan Vision** models for image analysis.
+
+---
+
+### 🔷 Installation — KoboldCPP (Local)
+
+1. Download KoboldCPP from [koboldcpp.com](https://koboldcpp.com).
+
+2. Load a compatible model.
+
+3. Go to **Settings → Custom System Prompt**.
+
+4. Paste the `namorar.md` content.
+
+5. **Enable** and use.
+
+> ⚠️ **Note:** Image analysis is limited in KoboldCPP. Text‑based usage is recommended.
 
 ---
 
