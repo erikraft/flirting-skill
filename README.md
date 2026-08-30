@@ -417,7 +417,7 @@ If you have suggestions, open an issue or reach out.
 ## 🙏 Credits
 
 - **Bruno Kraus** — Relationship coach and the inspiration behind the method.
-- **Original Creator** — Brazilian author who developed and refined the Skill.
+- **[Original Creator](https://github.com/erikraft/)** — Brazilian author who developed and refined the Skill.
 
 ---
 
