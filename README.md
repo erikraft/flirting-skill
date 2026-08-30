@@ -36,18 +36,18 @@ A custom AI Skill that analyzes **photos, screenshots, posts, reels, stories, or
 
 | Platform | Type | Image Analysis | Skill Support | Tutorial |
 |----------|------|----------------|---------------|----------|
-| **Claude Web** | Cloud | ✅ Yes (via UI) | ✅ Native | [Tutorial](#-installation-claude-web) |
-| **Claude Desktop** | Desktop App | ✅ Yes | ✅ Native | [Tutorial](#-installation-claude-desktop) |
-| **Claude API** | API | ✅ Yes | ✅ Via prompt | [Tutorial](#-installation-claude-api) |
-| **Claude Code** | CLI | ✅ Yes | ✅ Native | [Tutorial](#-installation-claude-code) |
-| **LibreChat** | Self‑Hosted | ✅ Yes | ✅ Via prompt | [Tutorial](#-installation-librechat) |
-| **Open WebUI** | Self‑Hosted | ✅ Yes | ✅ Via prompt | [Tutorial](#-installation-open-webui) |
-| **Ollama + Open WebUI** | Local | ✅ Yes (LLaVA, Moondream) | ✅ Via prompt | [Tutorial](#-installation-ollama--open-webui-local-with-vision) |
-| **LM Studio** | Local | ✅ Yes | ✅ Via prompt | [Tutorial](#-installation-lm-studio-local) |
-| **GPT4All** | Local | ✅ Yes | ✅ Via prompt | [Tutorial](#-installation-gpt4all-local) |
-| **Jan.ai** | Local | ✅ Yes | ✅ Via prompt | [Tutorial](#-installation-janai-local) |
-| **KoboldCPP** | Local | ⚠️ Limited | ✅ Via prompt | [Tutorial](#-installation-koboldcpp-local) |
-| **Agentic Browsers** | Browser | ✅ Yes | ✅ Custom | [Tutorial](#-installation-agentic-browsers) |
+| **Claude Web** | Cloud | ✅ Yes (via UI) | ✅ Native | [Tutorial](#-installation--claude-web) |
+| **Claude Desktop** | Desktop App | ✅ Yes | ✅ Native | [Tutorial](#-installation--claude-desktop) |
+| **Claude API** | API | ✅ Yes | ✅ Via prompt | [Tutorial](#-installation--claude-api) |
+| **Claude Code** | CLI | ✅ Yes | ✅ Native | [Tutorial](#-installation--claude-code) |
+| **LibreChat** | Self‑Hosted | ✅ Yes | ✅ Via prompt | [Tutorial](#-installation--librechat-selfhosted) |
+| **Open WebUI** | Self‑Hosted | ✅ Yes | ✅ Via prompt | [Tutorial](#-installation--open-webui-local) |
+| **Ollama + Open WebUI** | Local | ✅ Yes (LLaVA, Moondream) | ✅ Via prompt | [Tutorial](#-installation--ollama--open-webui-local-with-vision) |
+| **LM Studio** | Local | ✅ Yes | ✅ Via prompt | [Tutorial](#-installation--lm-studio-local) |
+| **GPT4All** | Local | ✅ Yes | ✅ Via prompt | [Tutorial](#-installation--gpt4all-local) |
+| **Jan.ai** | Local | ✅ Yes | ✅ Via prompt | [Tutorial](#-installation--janai-local) |
+| **KoboldCPP** | Local | ⚠️ Limited | ✅ Via prompt | [Tutorial](#-installation--koboldcpp-local) |
+| **Agentic Browsers** | Browser | ✅ Yes | ✅ Custom | [Tutorial](#-installation--agentic-browsers) |
 
 ---
 
